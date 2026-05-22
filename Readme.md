@@ -61,7 +61,31 @@ Strong background in:
 
 🏅 **OutSystems MVP**
 
-Recognized by OutSystems community and ecosystem for technical contributions and expertise.
+Recognized by the OutSystems community and ecosystem for technical contributions, enterprise expertise and leadership.
+
+<br>
+
+🌟 **OutSystems Champion**
+
+Community recognition for contribution, mentoring, technical enablement, knowledge sharing and ecosystem engagement.
+
+<table align="center">
+<tr>
+<td align="center">
+
+MVP  
+Enterprise Excellence
+
+</td>
+
+<td align="center">
+
+Champion  
+Community Impact
+
+</td>
+</tr>
+</table>
 
 ---
 
