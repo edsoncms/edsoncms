@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/edsoncms.png" width="180" style="border-radius:50%" />
+<img src="./img/me.jpg" width="180" style="border-radius:50%" />
 
 # Edson Marques
 
 ### 🚀 OutSystems MVP • Solutions Architect • Technical Leader • Low-code Specialist
-
+<p>
+<img src="./img/Badge.svg" height="90" alt="OutSystems MVP"/>
 <p>
 Enterprise Software Architecture | OutSystems | Mendix | Technical Leadership | Training | Delivery Excellence
 </p>
@@ -292,6 +293,10 @@ https://linkedin.com/in/edsonmarques
 ---
 
 <div align="center">
+
+<img src="./img/email-banner-v1.png" width="700" alt="OutSystems MVP Banner"/>
+
+<br><br>
 
 ### ⚡ Building scalable solutions, enabling teams and transforming ideas into enterprise systems.
 
