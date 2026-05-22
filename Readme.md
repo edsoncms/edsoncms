@@ -68,32 +68,32 @@ Recognized by OutSystems community and ecosystem for technical contributions and
 
 ### Architecture & Leadership
 
-- Architecture Specialist (O11)
-- Associate Tech Lead
-- Certified Trainer
-- Pre-Sales
-- Sales
+- OutSystems Architecture Specialist (O11)
+- OutSystems Tech Lead
+- OutSystems Certified Trainer
+- OutSystems Pre-Sales
+- OutSystems Sales
 
 ### Development
 
-- Expert Developer
-- Professional Web Developer
-- Professional Mobile Developer
-- Reactive Developer
-- Traditional Web Developer
+- OutSystems Expert Developer
+- OutSystems Professional Web Developer
+- OutSystems Professional Mobile Developer
+- OutSystems Reactive Developer
+- OutSystems Traditional Web Developer
 
 ### Platform & Operations
 
-- Professional Platform Ops Engineer
-- Professional DevOps Engineer
-- Security Specialist
+- OutSystems Platform Ops Engineer
+- OutSystems DevOps Engineer
+- OutSystems Security Specialist
 
 ### ODC
 
-- Associate Developer
-- Web Specialist
-- Front-end Specialist
-- Mobile Specialist
+- OutSystems Associate Developer
+- OutSystems Web Specialist
+- OutSystems Front-end Specialist
+- OutSystems Mobile Specialist
 
 ---
 
@@ -199,12 +199,6 @@ Training teams and squads in:
 
 # 🚀 Featured Projects
 
-## MS3TI GlobalImage
-
-Workstation cloning and deployment solution.
-
----
-
 ## OutSystems Certification Simulators
 
 Training material and mock exams for certification preparation.
@@ -223,13 +217,37 @@ Experiments integrating AI with low-code ecosystems.
 
 ---
 
+## MS3TI GlobalImage
+
+Workstation cloning and deployment solution.
+
+---
+
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edsoncms&show_icons=true&theme=transparent"/>
+<img src="https://streak-stats.demolab.com?user=edsoncms&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsoncms&layout=compact&theme=transparent"/>
+</div>
+
+---
+
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edsoncms&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=edsoncms&theme=tokyonight&no-frame=true&row=1"/>
 
 </div>
 
@@ -269,7 +287,7 @@ https://linkedin.com/in/edsonmarques
 
 📸 Instagram:
 
-@engedsonmarques
+[@engedsonmarques](https://www.instagram.com/engedsonmarques)
 
 ---
 
