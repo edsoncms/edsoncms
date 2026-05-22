@@ -5,8 +5,11 @@
 # Edson Marques
 
 ### 🚀 OutSystems MVP • Solutions Architect • Technical Leader • Low-code Specialist
-<p>
-<img src="./img/Badge.svg" height="90" alt="OutSystems MVP"/>
+<p align="center">
+    <a href="https://www.outsystems.com/profile/dug8jzcyhw/overview" target="_blank">
+        <img src="./img/Badge@2x.png" width="260" alt="OutSystems MVP"/>
+    </a>
+</p>
 <p>
 Enterprise Software Architecture | OutSystems | Mendix | Technical Leadership | Training | Delivery Excellence
 </p>
@@ -297,6 +300,10 @@ Workstation cloning and deployment solution.
 ---
 
 # 🌐 Connect With Me
+
+🌍 Links:
+
+https://linktr.ee/engedsonmarques
 
 🌍 Website:
 
