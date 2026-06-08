@@ -271,7 +271,11 @@ Workstation cloning and deployment solution.
 
 ---
 
+<!--
 # 🏆 GitHub Trophies
+
+//Temporariamente desabilitado.
+//O serviço github-profile-trophy.vercel.app foi pausado pelo mantenedor.
 
 <div align="center">
 
@@ -280,6 +284,7 @@ Workstation cloning and deployment solution.
 </div>
 
 ---
+-->
 
 # 🎯 Current Interests
 
