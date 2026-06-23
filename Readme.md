@@ -139,7 +139,7 @@ Community Impact
 
 <img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Bubble-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flaxboll-000000?style=for-the-badge"/>
 
 </p>
 
